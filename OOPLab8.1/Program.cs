@@ -64,7 +64,7 @@ namespace OOPLab8._1
                     }
                 }
             }
-            Console.WriteLine("Add note: A");
+            Console.WriteLine(" Add note: A");
             Console.WriteLine("Edit note: E");
             Console.WriteLine("Remove note: R");
             Console.WriteLine("Show notes: Enter");
